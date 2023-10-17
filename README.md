@@ -2,7 +2,7 @@
 
 ![Flutter Version](https://img.shields.io/badge/flutter-3.6.10-blue.svg)
 
-This is a Flutter project developed using Flutter version 2.5.2 and Visual Studio Code. It serves as a sample project for [CashPago]([https://cashpago.com/](https://cashpago.com.br)) and includes various features and components that can be useful for building Flutter applications.
+This is a Flutter project developed using Flutter version 3.6.10 and Visual Studio Code. It serves as a sample project for [CashPago]([https://cashpago.com/](https://cashpago.com.br)) and includes various features and components that can be useful for building Flutter applications.
 
 ## Getting Started
 
@@ -54,20 +54,11 @@ Covered Use case #1:
 
 # Android Screenshots
 
-<img src="https://github.com/yanctrindade/cashpago-mobile-test/assets/11860540/109d3c5a-1576-42b7-886e-1549cf148cac" style="width: 25%; height: auto;" alt="screen2-android">
-
-<img src="https://github.com/yanctrindade/cashpago-mobile-test/assets/11860540/bc2d745d-9a86-4c5e-9828-1c73b688012c" style="width: 25%; height: auto;" alt="screen2-android">
-
-<img src="https://github.com/yanctrindade/cashpago-mobile-test/assets/11860540/3194ec4f-2b60-464e-9a91-f10a09734523" style="width: 25%; height: auto;" alt="screen3-android">
-
-<img src="https://github.com/yanctrindade/cashpago-mobile-test/assets/11860540/e8f0a54f-9b3f-4620-85cf-a21daffb7425" style="width: 25%; height: auto;" alt="screen4-android">
+<img src="https://raw.githubusercontent.com/yanctrindade/cashpago-mobile-test/master/demo/screen1-android.png" style="width: 20%; height: auto;" alt="screen1-android"> <img src="https://raw.githubusercontent.com/yanctrindade/cashpago-mobile-test/master/demo/screen2-android.png" style="width: 20%; height: auto;" alt="screen2-android"> <img src="https://raw.githubusercontent.com/yanctrindade/cashpago-mobile-test/master/demo/screen3-android.png" style="width: 20%; height: auto;" alt="screen3-android"> <img src="https://raw.githubusercontent.com/yanctrindade/cashpago-mobile-test/master/demo/screen4-android.png" style="width: 20%; height: auto;" alt="screen4-android">
 
 # iOS Screenshots
 
-<img src="https://github.com/yanctrindade/cashpago-mobile-test/assets/11860540/4e169286-cf99-4627-9c86-b0627be24aab" style="width: 25%; height: auto;" alt="screen1-ios">
+<img src="https://raw.githubusercontent.com/yanctrindade/cashpago-mobile-test/master/demo/screen1-ios.PNG" style="width: 20%; height: auto;" alt="screen1-ios"> <img src="https://raw.githubusercontent.com/yanctrindade/cashpago-mobile-test/master/demo/screen2-ios.PNG" style="width: 20%; height: auto;" alt="screen2-ios"> <img src="https://raw.githubusercontent.com/yanctrindade/cashpago-mobile-test/master/demo/screen3-ios.PNG" style="width: 20%; height: auto;" alt="screen3-ios"> <img src="https://raw.githubusercontent.com/yanctrindade/cashpago-mobile-test/master/demo/screen4-ios.PNG" style="width: 20%; height: auto;" alt="screen4-ios">
+ 
 
-<img src="https://github.com/yanctrindade/cashpago-mobile-test/assets/11860540/6e03d652-5def-495f-9878-e321ba9a101d" style="width: 25%; height: auto;" alt="screen2-ios">
 
-<img src="https://github.com/yanctrindade/cashpago-mobile-test/assets/11860540/1e918ddc-3d10-4612-8bbd-a699df1439a8" style="width: 25%; height: auto;" alt="screen3-ios">
-
-<img src="https://github.com/yanctrindade/cashpago-mobile-test/assets/11860540/74d77c90-c18d-4e32-82df-882d9574756a" style="width: 25%; height: auto;" alt="screen4-ios">
